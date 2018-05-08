@@ -6,6 +6,8 @@ Library
 
 ```pip install pycrypto```
 
+Prebuilt pycrypto Binaries for Windows download here: http://www.voidspace.org.uk/python/modules.shtml#pycrypto
+
 Usage
 ---
 
