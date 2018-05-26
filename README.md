@@ -12,3 +12,14 @@ Usage
 ---
 
 ```ozip2zip.py <*.ozip>```
+
+Tested devices
+---
+
+```
+OPPO R9s
+OPPO R9s plus
+OPPO R11
+OPPO R11s
+OPPO R11s plus
+```
