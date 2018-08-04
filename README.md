@@ -22,4 +22,5 @@ OPPO R9s plus
 OPPO R11
 OPPO R11s
 OPPO R11s plus
+OPPO Find X
 ```
