@@ -1,12 +1,11 @@
 # ozip2zip
 OPPO firmware ozip to zip
 
-Library
+Requirement
 ---
+Python 3.X with pycryptodome
 
-```pip install pycrypto```
-
-Prebuilt pycrypto Binaries for Windows download here: http://www.voidspace.org.uk/python/modules.shtml#pycrypto
+```pip install pycryptodome```
 
 Usage
 ---
