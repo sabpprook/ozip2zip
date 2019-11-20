@@ -29,4 +29,7 @@ OPPO R17 Neo (AX7 Pro)
 OPPO Find X
 Realme 1
 Realme 3
+Realme X
+Realme XT
+Realme X2 Pro
 ```
